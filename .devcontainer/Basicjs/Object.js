@@ -65,7 +65,7 @@ const user=[   // object array
 
     }
 ]
-console.log(user[0])
+console.log(user.length)
 // key find
 let temp=Object.keys(tinderuser) // key will goes to temp in array
 // console.log(temp)
